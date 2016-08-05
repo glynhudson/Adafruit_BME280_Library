@@ -1,0 +1,17 @@
+{
+  "name": "Adafruit_BME280_Library",
+  "keywords": "BMP280, Temperature, Humidity, Pressure ",
+  "description": "Arduino Library for Bosch BME280 Temperature Humidity and Pressuresensor",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/adafruit/Adafruit_BME280_Library.git"
+  },
+  "frameworks": "arduino",
+  "platforms":
+  [
+    "atmelavr",
+    "atmelsam"
+    "espressif"
+  ]
+}
